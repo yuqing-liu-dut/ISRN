@@ -13,7 +13,7 @@ Structure of Solver-SR
 In this paper, we propose a substantially different approach relying on the iterative optimization on HR space with an iterative super-resolution network (ISRN). We first analyze the observation model of image SR problem, inspiring a feasible solution by mimicking and fusing each iteration in a more general and efficient manner. Considering the drawbacks of batch normalization, we propose a feature normalization (F-Norm) method to regulate the features in network.  Furthermore, a novel block with F-Norm is developed to improve the network representation, termed as FNB.  Residual-in-residual structure is proposed to form a very deep network, which groups FNBs with a long skip connection for better information delivery and stabling the training phase. Extensive experimental results on testing benchmarks with bicubic (BI) degradation show our ISRN can not only recover more structural information, but also achieve competitive or better PSNR/SSIM results with much fewer parameters. Besides BI, we simulate the real-world degradation with blur-downscale (BD) and downscale-noise (DN). ISRN and its extension ISRN+ both achieve better performance with BD and DN degradation models.
 
 ## Code
-Comming soon.
+You can easily train and test our model with the MSRN(https://github.com/MIVRC/MSRN-PyTorch) architecture.
 
 ## Results
 ![psnrssim](./Images/psnrssim.png)
