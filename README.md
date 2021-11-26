@@ -1,6 +1,6 @@
 # Iterative Network for Image Super-Resolution
 
-*Yuqing Liu, Shiqi Wang, Jian Zhang, Shanshe Wang, Siwei Ma and Wen Gao. "Iterative Network for Image Super-Resolution"* [IEEExplore](https://ieeexplore.ieee.org/document/9427200)
+*Yuqing Liu, Shiqi Wang, Jian Zhang, Shanshe Wang, Siwei Ma and Wen Gao. "Iterative Network for Image Super-Resolution"* Accepted by IEEE TMM [IEEExplore](https://ieeexplore.ieee.org/document/9427200)
 
 ![model](./Images/network.png)
 
